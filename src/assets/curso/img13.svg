@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="312" height="167" viewBox="0 0 312 167">
+  <defs>
+    <clipPath id="clip-path">
+      <rect width="312" height="167" fill="none"/>
+    </clipPath>
+  </defs>
+  <g id="Cuadrícula_de_repetición_1" data-name="Cuadrícula de repetición 1" clip-path="url(#clip-path)">
+    <g id="Grupo_24687" data-name="Grupo 24687" transform="translate(-527 -1541)">
+      <rect id="Rectángulo_5741" data-name="Rectángulo 5741" width="312" height="167" rx="10" transform="translate(527 1541)" fill="#e8eef6"/>
+      <g id="Grupo_24680" data-name="Grupo 24680" transform="translate(625 1570.563)">
+        <path id="Trazado_11679" data-name="Trazado 11679" d="M23.886,297.512,3,327.973l20.166-3.761,3.761,20.167L46.755,315.46Z" transform="translate(0 -232.504)" fill="#f57f41"/>
+        <path id="Trazado_11680" data-name="Trazado 11680" d="M331.588,297.512,308.719,315.46l19.829,28.919,3.76-20.167,20.166,3.761Z" transform="translate(-238.917 -232.504)" fill="#ea623c"/>
+        <path id="Trazado_11681" data-name="Trazado 11681" d="M94.846,0A45.056,45.056,0,1,0,139.9,45.056,45.106,45.106,0,0,0,94.846,0Z" transform="translate(-36.568)" fill="#ffe07f"/>
+        <path id="Trazado_11682" data-name="Trazado 11682" d="M255.98,0V90.113A45.056,45.056,0,0,0,255.98,0Z" transform="translate(-197.702)" fill="#ffd23a"/>
+        <path id="Trazado_11683" data-name="Trazado 11683" d="M164.211,165.019l-15.383-15.383,4.662-4.662,10.721,10.72,26.783-26.784,4.662,4.662Z" transform="translate(-113.964 -100.742)" fill="#1d608b"/>
+        <path id="Trazado_11684" data-name="Trazado 11684" d="M255.98,157.008l23.415-23.436-4.662-4.662L255.98,147.662Z" transform="translate(-197.702 -100.742)" fill="#0d3954"/>
+      </g>
+    </g>
+  </g>
+</svg>

@@ -38,7 +38,7 @@
           .col-md-6
             figure
               img(src='@/assets/curso/img6.svg', alt='Texto que describa la imagen' style='width:70%').m-auto
-      .py-4.py-md-5(titulo="DetecciónTemprana" :icono="require('@/assets/curso/img3.svg') ")
+      .py-4.py-md-5(titulo="Detección Temprana" :icono="require('@/assets/curso/img3.svg') ")
         .row
           .col-md-6.mb-4.mb-md-0
             .h4 Detección temprana
@@ -48,7 +48,7 @@
               |Incorpora las atenciones previamente establecidas como pruebas de tamizaje para detección temprana de riesgos y debe ser incorporada a la atención por momento de curso de vida para la gestión de dichos riesgos.
           .col-md-6
             figure
-              img(src='@/assets/curso/img7.svg', alt='Texto que describa la imagen' style='width:70%').m-auto
+              img(src='@/assets/curso/img6.svg', alt='Texto que describa la imagen' style='width:70%').m-auto
       .py-4.py-md-5(titulo="Protección  Específica" :icono="require('@/assets/curso/img4.svg')")
         .row
           .col-md-6.mb-4.mb-md-0
@@ -57,7 +57,6 @@
               br
               br
               |Incorpora esas intervenciones altamente costo efectivas como el caso de la vacunación, la suplementación, desparasitación, la aplicación de fluor, entre otras
-        
           .col-md-6
             figure
               img(src='@/assets/curso/img7.svg', alt='Texto que describa la imagen' style='width:70%').m-auto
@@ -71,7 +70,7 @@
               |Incorpora tanto los procesos de educación grupal por momento de curso de vida que apunta a fortalecer las capacidades de cuidado, como sesiones destinadas a un individuo asociadas a una condicion o situacion especifica, como el escenario de educación para la familia.
           .col-md-6
             figure
-              img(src='@/assets/curso/img7.svg', alt='Texto que describa la imagen' style='width:70%').m-auto
+              img(src='@/assets/curso/img6.svg', alt='Texto que describa la imagen' style='width:70%').m-auto
 
 
 </template>

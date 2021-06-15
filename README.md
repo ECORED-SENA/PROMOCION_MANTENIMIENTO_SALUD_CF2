@@ -1,8 +1,8 @@
-# **Rutas Integrales de Atención en Salud (RIAS)**
+# **Intervenciones individuales por curso de vida**
 
 ## **Enlace GitHubPages**
 
-[https://ecored-sena.github.io/PROMOCION_MANTENIMIENTO_SALUD_CF1/](https://ecored-sena.github.io/PROMOCION_MANTENIMIENTO_SALUD_CF1/)
+[https://ecored-sena.github.io/PROMOCION_MANTENIMIENTO_SALUD_CF2/](https://ecored-sena.github.io/PROMOCION_MANTENIMIENTO_SALUD_CF2/)
 
 #
 

@@ -6,7 +6,7 @@
     .titulo-principal
       .titulo-principal__numero
         span 3
-      h1 Intervenciones individuales - Atención a las familia   
+      h1 Intervenciones individuales - Atención a las familias  
 
 
     .bloque-texto-a.color-custom.p-4.p-md-5.my-5
@@ -125,7 +125,7 @@
             ul.lista-ul--color
               li.lista-separada 
                 i.fas.fa-check.mx-2
-                p Estructura y dinamica familiar (conformación y relaciones entre integrantes, situaciones que repercuten en la salud y el desarrollo; el momento de curso vital de la familia - formación, extensión, contracción, disolución;  afrontamiento y vivencia de sucesos esperados y no esperados.
+                p Estructura y dinámica familiar (conformación y relaciones entre integrantes, situaciones que repercuten en la salud y el desarrollo; el momento de curso vital de la familia - formación, extensión, contracción, disolución;  afrontamiento y vivencia de sucesos esperados y no esperados.
               li.lista-separada 
                 i.fas.fa-check.mx-2
                 p Situaciones particulares en salud de la familia y sus integrantes.

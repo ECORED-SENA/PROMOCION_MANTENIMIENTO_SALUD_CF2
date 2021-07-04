@@ -44,7 +44,7 @@
             p Conjunto de atenciones coordinadas, complementarias y efectivas para determinar el estado de salud de las personas con el fin de definir las intervenciones de salud que se requieren, según el curso de vida.
               br
               br
-              |Incorpora atención por profesional para la valoración integral por momento de curso de vida y salud bucal.Para el caso de primera infancia, existe apoyo y promoción de la lactancia materna.
+              |Incorpora atención por profesional para la valoración integral por momento de curso de vida y salud bucal. Para el caso de primera infancia, existe apoyo y promoción de la lactancia materna.
       
           .col-md-6
             figure
@@ -78,7 +78,7 @@
         .row
           .col-md-6.mb-4.mb-md-0
             .h4 Educación para la salud
-            p Proceso  pedagógico de construcción de conocimiento, que pretende aportar al desarrollo del potencial de las personas, familias y  comunidades para proveer el cuidado de la salud, gestionar el riesgo de salud y transformar positivamente los entornos en los que se sus vidas.
+            p Proceso  pedagógico de construcción de conocimiento, que pretende aportar al desarrollo del potencial de las personas, familias y  comunidades para proveer el cuidado de la salud, gestionar el riesgo de salud y transformar positivamente los entornos en los que se desarrollan sus vidas.
               br
               br
               |Incorpora tanto los procesos de educación grupal por momento de curso de vida que apunta a fortalecer las capacidades de cuidado, como también, sesiones destinadas a un individuo, asociadas con una condición o situación específica, por ejemplo, la educación para la familia.

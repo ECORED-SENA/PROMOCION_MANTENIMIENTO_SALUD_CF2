@@ -51,7 +51,7 @@
     p.my-5 La educación para la salud, puede brindarse bajo la forma de educación individual y grupal (como parte de las atenciones y procedimientos con cargo a la UPC, es decir bajo la responsabilidad de la EPS o asegurador; así como educación colectiva es decir intervención colectiva (bajo responsabilidad de la entidad territorial de salud y la ESE como operador). 
 
     h3.text-center Educación individual - grupal - colectiva
-    h4.text-center.mb-5 ¿A Quienes?
+    h4.text-center.mb-5 ¿A quiénes?
 
     .row.justify-content-center.mb-5
       .col-12.col-lg-4        
@@ -81,7 +81,7 @@
     p.mb-5 Las sesiones educativas deben ser implementadas por uno o varios profesionales, técnicos y tecnólogos de las ciencias de la salud, salud ambiental y de las ciencias sociales y humanas, con el apoyo de auxiliares del equipo de salud con las competencias para desarrollar metodológica, pedagógica y técnicamente el proceso (ideal el apoyo de profesional en pedagogía, psicopedagogía o psicología educativa). Para el caso de comunidades indígenas, podrán ser desarrolladas por el personal de salud propio de dichos pueblos.
 
     h3.titulo-rosa.text-center Educación individual - grupal
-    h4.text-center.mb-5 ¿Como?
+    h4.text-center.mb-5 ¿Cómo?
 
     .row.justify-content-center.mb-5
       .col-12.col-lg-4

@@ -46,7 +46,7 @@ export default {
         nombreRuta: 'tema3',
         icono: 'far fa-file-alt',
         numero: '3',
-        titulo: 'Intervenciones individuales - Atención a las familia',
+        titulo: 'Intervenciones individuales - Atención a las familias',
         desarrolloContenidos: true,
       },
       {
